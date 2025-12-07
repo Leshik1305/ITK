@@ -8,7 +8,7 @@ ERROR_STATUS = 0
 ERROR_TIMEOUT_STATUS = 408
 CLIENT_ERROR_STATUS = 400
 REQUESTS_LIMIT = 5
-FILE_PATH = "./results.jsonl"
+FILE_PATH = "results.jsonl"
 
 
 async def fetch_url(

@@ -1,0 +1,4 @@
+https://example.com
+https://httpbin.org/status/404
+https://nonexistent.url
+https://api.github.com/users/Leshik1305
