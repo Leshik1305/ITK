@@ -8,6 +8,7 @@ dependencies = [
     "aiohttp>=3.13.2",
     "asyncio>=4.0.0",
     "ruff>=0.14.8",
+    "uvicorn>=0.38.0",
 ]
 [tool.ruff.lint]
 extend-select = ["I"]
